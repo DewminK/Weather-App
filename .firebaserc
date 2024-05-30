@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "weather-app-224036t",
+    "weatherapp": "weather-app-224036t"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
