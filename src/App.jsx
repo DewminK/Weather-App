@@ -9,7 +9,7 @@ function App() {
   const [location, setLocation] = useState('');
   const [backgroundimg, setBackground] = useState('default.jpg');
 
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid={e9d88807681acd51e6d83db796f6223d}`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=e9d88807681acd51e6d83db796f6223d`;
 
   const searchLocation = (event) => {
     if (event.key === 'Enter') {
